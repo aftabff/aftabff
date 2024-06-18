@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabff&label=Profile%20views&color=0e75b6&style=flat" alt="aftabff" /> </p>
 
-- 🌱 I’m currently learning **DSA in Java ,**
-
+- 🌱 I’m currently learning **DSA in Java **
 - 📫 How to reach me **2k22.cse.32497@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
