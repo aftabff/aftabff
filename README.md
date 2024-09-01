@@ -27,7 +27,7 @@
          <a href="https://linkedin.com/in/aftab-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftab-alam" height="40" width="40" /></a>
       </td>
       <td>
-          <a href="https://instagram.com/aftab_ab_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aftab_ab_10" height="40" width="40" /></a>
+          <a href="https://www.naukri.com/code360/profile/aftab_10" target="blank"><img align="center" src="https://yt3.googleusercontent.com/Qak2Unp_tDxiEMmSwOj8oSUZLMytk7fcWSZA5UL2eWaxBOgUCnyvEQorbcwnVQderfZQLrko=s900-c-k-c0x00ffffff-no-rj" alt="aftab_10" height="40" width="40" /></a>
       </td>
       <td>
         <a href="https://www.hackerrank.com/cs_2201640100030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cs_2201640100030" height="40" width="40" /></a>
@@ -38,6 +38,9 @@
       </td>
       <td>
           <a href="https://auth.geeksforgeeks.org/user/aftab_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aftab_10" height="40" width="40" /></a>
+      </td>
+      <td>
+          <a href="https://instagram.com/aftab_ab_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aftab_ab_10" height="40" width="40" /></a>
       </td>
   </table>
 </div>
