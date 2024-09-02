@@ -42,6 +42,9 @@
       <td>
           <a href="https://instagram.com/aftab_ab_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aftab_ab_10" height="40" width="40" /></a>
       </td>
+      <td>
+      <a href="https://www.facebook.com/profile.php?id=61553844182376" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGsA5D__JI9eXg7YJtg-1ieMj_zIK9S4T8zA&s" alt="aftab_ab_10" height="40" width="40" /></a>
+      </td>
   </table>
 </div>
 
