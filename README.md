@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="https://media.licdn.com/dms/image/v2/C4D16AQEMOMUnqFeAGg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1668828543556?e=2147483647&v=beta&t=jq9nkJ-VtIdfvTqOEpzv9NxFgoyMXASSvSa-hPGp7r4">
+<img align="center" alt="coding" width="100%" src="https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-121207.jpg?semt=ais_hybrid&w=740">
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
 
          
