@@ -12,8 +12,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabff&label=Profile%20views&color=brightgreen&style=flat" alt="aftabff" /> </p>
 
 <h2> Welcome to my GitHub Profile</h2>
-- 🏫 I'm persuing Bachelor of Technology in CSE from Pranveer Institute Of Technology<br>
-- 📫 How to reach me " 2k22.cse.32497@gmail.com "<br>
+- 🏫 I'm persuing Bachelor of Technology in CSE from Pranveer Singh Institute of Technology<br>
+- 📫 Reach out me through " 2k22.cse.32497@gmail.com "<br>
 - 🌱 I’m currently focusing on DSA concepts and down into projects and collaborations.
 
 
