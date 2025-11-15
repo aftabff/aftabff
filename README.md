@@ -1,20 +1,15 @@
-<img align="center" alt="coding" width="100%" src="https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-121207.jpg?semt=ais_hybrid&w=740">
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+<img width="1700" height="500" alt="github-header-banner" src="https://github.com/user-attachments/assets/b0c25bd2-b370-4cbb-b778-93445fb15ffa" />
 
-         
-         
+<br/>
+<h1></h1>
 
-<h1 align="center" alt="Waving hand animated gif" height="40" width="40"> I'm Aftab Alam</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
-
-
+       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabff&label=Profile%20views&color=brightgreen&style=flat" alt="aftabff" /> </p>
 
 <h2> Welcome to my GitHub Profile</h2>
-- 🏫 I'm persuing Bachelor of Technology in CSE from Pranveer Singh Institute of Technology<br>
-- 📫 Reach out me through " 2k22.cse.32497@gmail.com "<br>
-- 🌱 I’m currently focusing on DSA concepts and down into projects and collaborations.
+ I'm persuing Bachelor of Technology in CSE from Pranveer Singh Institute of Technology<br>
+ Reach out me through " 2k22.cse.32497@gmail.com "<br>
+
 
 
 <h2>Connect with me:</h2>
@@ -27,7 +22,7 @@
          <a href="https://linkedin.com/in/aftab-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftab-alam" height="40" width="40" /></a>
       </td>
       <td>
-          <a href="https://www.naukri.com/code360/profile/aftab_10" target="blank"><img align="center" src="https://yt3.googleusercontent.com/Qak2Unp_tDxiEMmSwOj8oSUZLMytk7fcWSZA5UL2eWaxBOgUCnyvEQorbcwnVQderfZQLrko=s900-c-k-c0x00ffffff-no-rj" alt="aftab_10" height="40" width="40" /></a>
+          <a href="https://www.naukri.com/code360/profile/aftab_10" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/76gEFhQto5xMHr2Qf8nWLvm1s0O60clhkwHvxQDSeI3hthf7Zs05JJQeyg5H347DGQ" alt="aftab_10" height="40" width="40" /></a>
       </td>
       <td>
         <a href="https://www.hackerrank.com/cs_2201640100030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cs_2201640100030" height="40" width="40" /></a>
@@ -70,7 +65,7 @@
           <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="45" width="45"/>
       </td>
       <td>
-          <img align="center" src="https://banner2.cleanpng.com/20190129/vxi/kisspng-javascript-web-applications-scalable-vector-graphi-1713908481051.webp" height="45" width="45"/>
+          <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJfEQqQt2YY8TO2rX-eixAn8dL2JnN7zYxA&s" height="45" width="45"/>
       </td>
       <td>
           <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="45" width="45"/>
@@ -79,7 +74,7 @@
           <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9tn8IF5V4l95HgPDP3Gck4uWAgW8uPWm8Q&s" height="45" width="45"/>
       </td>
       <td>
-          <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="45" width="45"/>
+          <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jnqhGEMmH3Yt-dZsKWEhilGCBGqc7Q73vA&s" height="45" width="45"/>
       </td>
   </table>
 </div>
